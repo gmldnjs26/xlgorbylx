@@ -22,4 +22,5 @@
 ### ❤️ Get in touch
 
 - Twitter: https://twitter.com/NadjaHarold
-- Blog: https://harold.tokyo/ (not maintained...)
+- Blog(old): https://harold.tokyo/ (not maintained...)
+- Blog(new!): https://xenodochial-bell-5fe39c.netlify.app/ (coming soon...💪💪)
