@@ -2,8 +2,8 @@
 
 ### Hi there, I'm harold📯
 
-Before -> Consultant(PMO, Finance, IT, etc...)
-Now -> Software Engineer(Front-end)
+- Before -> Consultant(PMO, Finance, IT, etc...)
+- Now -> Software Engineer(Front-end)
 
 ### 🔍 My Interest
 
