@@ -22,4 +22,4 @@
 ### ❤️ Get in touch
 
 - Twitter: https://twitter.com/NadjaHarold
-- Blog: https://harold.tokyo/(not maintained...)
+- Blog: https://harold.tokyo/ (not maintained...)
