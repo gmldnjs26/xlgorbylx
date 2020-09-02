@@ -9,6 +9,7 @@
 
 ### Hi there, I'm harold📯
 
+- учился в МГУ и СПБГУ(когда был ТУИЯ)
 - Before -> Consultant(PMO, Finance, IT, etc...)
 - Now -> Software Engineer(Front-end)
 
@@ -21,4 +22,4 @@
 ### ❤️ Get in touch
 
 - Twitter: https://twitter.com/NadjaHarold
-- Blog: https://harold.tokyo/
+- Blog: https://harold.tokyo/(not maintained...)
