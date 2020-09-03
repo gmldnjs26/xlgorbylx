@@ -5,7 +5,7 @@
 <img style="float:initial;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadjaharold&hide_border=true&theme=buefy&layout=compact" />
 </a>
 
-[![twitter badge](https://img.shields.io/badge/twitter-_NadjaHarold-1da1f2?style=flat-square&logo=twitter)](https://twitter.com/NadjaHarold) [![blog badge](https://img.shields.io/badge/blogOld-webmas!-1f425f?style=flat-square)](https://harold.tokyo) [![blog badge](https://img.shields.io/badge/blogNew-harold's%20diary-1f425f?style=flat-square)](https://xenodochial-bell-5fe39c.netlify.app/)
+[![twitter badge](https://img.shields.io/badge/twitter-_NadjaHarold-1da1f2?style=flat-square&logo=twitter)](https://twitter.com/NadjaHarold) [![blog badge](https://img.shields.io/badge/blogOld-webmas!-1f425f?style=flat-square)](https://harold.tokyo) [![blog badge](https://img.shields.io/badge/blogNew-harold's%20diary-1f425f?style=flat-square)](https://dev-harold.net/)
 
 ### Hi there, I'm harold📯
 
@@ -22,5 +22,5 @@
 ### ❤️ Get in touch
 
 - Twitter: https://twitter.com/NadjaHarold
-- Blog(old): https://harold.tokyo/ (not maintained...)
-- Blog(new!): https://xenodochial-bell-5fe39c.netlify.app/ (coming soon...💪💪)
+- Blog(old): https://harold.tokyo/ (Not Maintained...)
+- Blog(new!): https://dev-harold.net/ (Now Writing...💪💪)
