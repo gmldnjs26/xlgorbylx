@@ -6,7 +6,8 @@
 </a>
 
 [![twitter badge](https://img.shields.io/badge/twitter-_NadjaHarold-1da1f2?style=flat-square&logo=twitter)](https://twitter.com/NadjaHarold)
-[![blog badge](https://img.shields.io/badge/blog-harold's%20diary-1f425f?style=flat-square)](https://dev-harold.net/)
+
+<!-- [![blog badge](https://img.shields.io/badge/blog-harold's%20diary-1f425f?style=flat-square)](https://dev-harold.net/) -->
 
 ### Hi there, I'm горби📯
 
@@ -24,4 +25,4 @@
 ### ❤️ Get in touch
 
 - Twitter: https://twitter.com/NadjaHarold
-- Blog: https://dev-harold.net/
+<!-- - Blog: https://dev-harold.net/ -->
