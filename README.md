@@ -1,11 +1,11 @@
 <a href="https://github.com/anuraghazra/github-readme-stats" style="display:inline-block;">
-<img style="float:initial;" src="https://github-readme-stats.vercel.app/api?username=nadjaharold&count_private=true&show_icons=true&theme=react&hide_border=true" />
+<img style="float:initial;" src="https://github-readme-stats.vercel.app/api?username=xlgorbylx&count_private=true&show_icons=true&theme=react&hide_border=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats" style="display:inline-block;">
-<img style="float:initial;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadjaharold&hide_border=true&theme=react&layout=compact" />
+<img style="float:initial;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xlgorbylx&hide_border=true&theme=react&layout=compact" />
 </a>
 
-[![twitter badge](https://img.shields.io/badge/twitter-_NadjaHarold-1da1f2?style=flat-square&logo=twitter)](https://twitter.com/NadjaHarold)
+[![twitter badge](https://img.shields.io/badge/twitter-_xlgorbylx-1da1f2?style=flat-square&logo=twitter)](https://twitter.com/xlgorbylx)
 
 <!-- [![blog badge](https://img.shields.io/badge/blog-harold's%20diary-1f425f?style=flat-square)](https://dev-harold.net/) -->
 
@@ -24,5 +24,5 @@
 
 ### ❤️ Get in touch
 
-- Twitter: https://twitter.com/NadjaHarold
+- Twitter: https://twitter.com/xlgorbylx
 <!-- - Blog: https://dev-harold.net/ -->
