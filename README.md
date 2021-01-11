@@ -20,7 +20,7 @@
 - Web Performance & Web Technology
 - JS/TS, C++, Rust, WebAssembly
 - Front-end, Infrastructure, Server-side
-- Competitive Programming(AtCoder: Green, rating840~💪💪)
+- Competitive Programming(AtCoder: Green, rating850~💪💪)
 
 ### ❤️ Get in touch
 
