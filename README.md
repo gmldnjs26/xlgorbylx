@@ -7,8 +7,6 @@
 
 [![twitter badge](https://img.shields.io/badge/twitter-_xlgorbylx-1da1f2?style=flat-square&logo=twitter)](https://twitter.com/xlgorbylx)
 
-<!-- [![blog badge](https://img.shields.io/badge/blog-harold's%20diary-1f425f?style=flat-square)](https://dev-harold.net/) -->
-
 ### Hi there, I'm горби📯
 
 - учился в МГУ и СПБГУ(когда был ТУИЯ)
@@ -20,9 +18,8 @@
 - Web Performance & Web Technology
 - JS/TS, C++, Rust, WebAssembly
 - Front-end, Infrastructure, Server-side
-- Competitive Programming(AtCoder: Green, rating975~💪💪)
+- Competitive Programming(AtCoder: Green, rating1000~💪💪)
 
 ### ❤️ Get in touch
 
 - Twitter: https://twitter.com/xlgorbylx
-<!-- - Blog: https://dev-harold.net/ -->
