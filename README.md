@@ -24,7 +24,7 @@
 - учился в МГУ и СПБГУ(когда был ТУИЯ)
 - Before -> Consultant(PMO, Finance, IT, etc...)
 - Now -> Web Application Engineer(mainly Front-end)
-- Sorry, most of the repositories are pribvate.
+- Sorry, most of the repositories are private.
 
 ### 🔍 My Interest
 
