@@ -24,13 +24,14 @@
 - учился в МГУ и СПБГУ(когда был ТУИЯ)
 - Before -> Consultant(PMO, Finance, IT, etc...)
 - Now -> Web Application Engineer(mainly Front-end)
+- Sorry, most of the repositories are pribvate.
 
 ### 🔍 My Interest
 
 - Web Performance & Web Technology
 - JS/TS, C++, Rust, WebAssembly
 - Front-end, Infrastructure, Server-side
-- Competitive Programming(AtCoder: Green, rating1000~💪💪)
+- Competitive Programming(AtCoder: Green, rating1050~💪💪)
 
 ### ❤️ Get in touch
 
